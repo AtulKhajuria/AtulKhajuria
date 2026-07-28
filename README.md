@@ -1,244 +1,80 @@
 <div align="center">
 
-# Hi there 👋 I'm Atul Khajuria
+# Hi 👋 I'm Atul Khajuria
 
-### ☁️ DevOps • Cloud • Platform Engineering • DevSecOps
+### DevOps • Cloud • Platform Engineering
 
-*Building scalable cloud infrastructure, automating deployments, and continuously exploring modern DevOps technologies.*
+Building reliable cloud infrastructure, automating deployments, and embracing modern DevOps practices.
 
-<p align="center">
-  <a href="https://github.com/AtulKhajuria">
-    <img src="https://komarev.com/ghpvc/?username=AtulKhajuria&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/AtulKhajuria?tab=followers">
-    <img src="https://img.shields.io/github/followers/AtulKhajuria?style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
+<p>
+<a href="https://github.com/AtulKhajuria">
+<img src="https://komarev.com/ghpvc/?username=AtulKhajuria&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/AtulKhajuria?tab=followers">
+<img src="https://img.shields.io/github/followers/AtulKhajuria?style=for-the-badge"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 Tech Stack
 
-- ☁️ Passionate about **Cloud Infrastructure** and **Platform Engineering**
-- ⚙️ Enthusiastic about designing reliable **CI/CD pipelines**
-- 🏗️ Strong advocate of **Infrastructure as Code**
-- ☸️ Interested in **Cloud Native** and **Kubernetes** ecosystems
-- 🔐 Exploring modern **DevSecOps** practices
-- 🐧 Linux enthusiast who enjoys automation and scripting
-- 📖 Always learning, building, and improving
-
----
-
-# 🛠️ Tech Stack
-
-### ☁️ Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,docker,kubernetes,jenkins,git,github,gitlab,bash,linux,prometheus,grafana" />
 </p>
 
----
-
-### ⚙️ Infrastructure as Code
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash" />
-</p>
+**Also experienced with:** OpenShift • Podman • SonarQube • Nexus • Maven • SVN • Amazon EKS
 
 ---
 
-### 🚀 Containers & Orchestration
+## 🏆 Certifications
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-
-**OpenShift • Podman • Amazon EKS**
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
-### 🔄 CI/CD & Version Control
+## 📌 Featured Areas
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,githubactions" />
-</p>
-
-**Git • GitHub • GitLab • SVN • Maven**
-
----
-
-### 🔐 DevSecOps
-
-- SonarQube
-- Nexus Repository
-- OWASP Dependency Check
+- ☁️ Cloud Infrastructure
+- 🏗️ Infrastructure as Code
+- ☸️ Kubernetes & Containers
+- 🚀 CI/CD Automation
+- 🔐 DevSecOps
+- 🐧 Linux & Automation
 
 ---
 
-### 📊 Monitoring & Logging
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
-
-**CloudWatch • ELK Stack**
-
----
-
-### 💻 Operating Systems
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" />
-</p>
-
----
-
-# 🏆 Certifications
-
-- 🥇 AWS Certified Solutions Architect – Associate
-- 🥈 AWS Certified Cloud Practitioner
-- 🥉 Microsoft Azure Fundamentals (AZ-900)
-
----
-
-# 📂 Featured Projects
-
-## ☁️ Terraform AWS Infrastructure
-
-Production-style infrastructure provisioning using Terraform.
-
-**Highlights**
-
-- Modular Architecture
-- Remote State Backend
-- VPC
-- ALB
-- Auto Scaling
-- Launch Templates
-- Security Groups
-- High Availability
-
----
-
-## ☸️ Kubernetes & Cloud Native
-
-Deploying and managing containerized workloads.
-
-**Highlights**
-
-- Amazon EKS
-- Deployments
-- Services
-- Ingress
-- ECR Integration
-- ALB Controller
-
----
-
-## 🚀 CI/CD Automation
-
-Building automated software delivery pipelines.
-
-**Tools**
-
-- Jenkins
-- GitHub Actions
-- GitLab CI/CD
-- Maven
-- Nexus
-- SonarQube
-
----
-
-## 🔐 DevSecOps
-
-Security integrated throughout the development lifecycle.
-
-- Static Code Analysis
-- Dependency Scanning
-- Artifact Management
-- Secure Delivery Pipelines
-
----
-
-## 🐧 Linux & Automation
-
-Automation using
-
-- Bash
-- Ansible
-- Linux Administration
-- Infrastructure Automation
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtulKhajuria&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtulKhajuria&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKhajuria&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKhajuria&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=AtulKhajuria&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-<p align="center">
+## 🤝 Connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtulKhajuria&theme=tokyo-night&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atul%20Khajuria-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/atul-khajuria)
 
-</p>
-
----
-
-# 🌱 Areas of Interest
-
-```text
-☁️ Cloud Computing
-🏗️ Infrastructure as Code
-☸️ Kubernetes
-⚙️ Platform Engineering
-🚀 CI/CD
-🔐 DevSecOps
-📊 Observability
-🐧 Linux
-📦 Containers
-🤖 Automation
-```
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://linkedin.com/in/atul-khajuria" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="mailto:atul.khajuria23@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a>
-
-</p>
+📧 atul.khajuria23@gmail.com
 
 ---
 
 <div align="center">
 
-### 💡 *"Infrastructure should be automated, scalable, and reliable."*
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect.**
+*"Automate what is repeatable. Engineer what is scalable."*
 
 </div>
