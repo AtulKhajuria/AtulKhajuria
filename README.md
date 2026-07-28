@@ -52,11 +52,21 @@ Building reliable cloud infrastructure, automating deployments, and embracing mo
 ## 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=AtulKhajuria&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AtulKhajuria&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKhajuria&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <picture>
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKhajuria&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+    />
+  </picture>
 </p>
 
 <p align="center">
