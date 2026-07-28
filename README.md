@@ -219,18 +219,6 @@ Automation using
 
 ---
 
-# 📚 Currently Exploring
-
-- GitOps
-- Argo CD
-- Helm
-- Multi-Cloud Architecture
-- Service Mesh
-- Kubernetes Security
-- Site Reliability Engineering
-
----
-
 # 🤝 Let's Connect
 
 <p align="left">
